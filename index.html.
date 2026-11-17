@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Muchlis Muchlisin | Data Science Portfolio</title>
+</head>
+<body style="font-family: Arial; max-width: 900px; margin: 60px auto;">
+    <h1>Hi, I'm Muchlis! 👋</h1>
+    <h2>Data Scientist & Data Analyst</h2>
+    <p>PhD from Utrecht University</p>
+    <p>Turning data into insights and smarter decisions.</p>
+    <hr>
+    <h2>About Me</h2>
+    <p>
+        I am a Data Scientist with over five years of experience
+        in quantitative analytics, behavioral science,
+        and statistical modeling.
+    </p>
+    <h2>Technical Skills</h2>
+    <p>Python | R | SQL | Power BI | Machine Learning</p>
+    <hr>
+    <h2>Featured Projects</h2>
+    <h3>Understanding User Behavior & Platform Adoption</h3>
+    <h3>Customer Segmentation & Behavioral Analytics</h3>
+    <h3>Consumer Behavior & Demand Dynamics</h3>
+    <h3>Latent Factor Modeling & Multidimensional Analytics</h3>
+</body>
+</html>
